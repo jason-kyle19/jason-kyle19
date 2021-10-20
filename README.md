@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jason
+- 👀 I’m interested Computers & Technology
+- 🌱 I’m currently learning to Code Linux Applications
